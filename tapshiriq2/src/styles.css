@@ -1,0 +1,35 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  border: 10px red solid;
+  padding: 20px;
+}
+
+.container1 {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px blue solid;
+  padding: 20px;
+}
+.container2 {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 5px blue dashed;
+  padding: 20px;
+}
+.container3 {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 10px blue solid;
+  padding: 20px;
+}
+.container4 {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5px;
+  border: 5px blue dashed;
+  padding: 20px;
+}
