@@ -1,0 +1,44 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: yellow;
+  border: 10px red solid;
+}
+
+.profileHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-bottom: 40px;
+}
+.profileHeader .profileImg {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.profileHeader .profileImg img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.profileHeader .profileTitle .profileName {
+  font-size: 30px;
+}
+.profileHeader .profileTitle .position {
+  font-size: 25px;
+  color: red;
+}
+
+.profileMain .experienceList ul {
+  list-style-type: none;
+  text-align: start;
+}
+
+.experienceList{
+  padding: 5px;
+}
+.profileMain{
+  
+  background-color: aquamarine;
+}
