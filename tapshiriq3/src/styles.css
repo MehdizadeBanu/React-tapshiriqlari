@@ -1,0 +1,16 @@
+.container {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: yellow;
+    border: 5px blue solid;
+  }
+  
+  label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button:hover{
+  background-color: magenta;
+}
